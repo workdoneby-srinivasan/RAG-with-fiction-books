@@ -1,6 +1,5 @@
 # RAG-with-fiction-books
 This project implements a simple Retrieval-Augmented Generation (RAG) pipeline using custom PDF books (e.g., Harry Potter series) as the knowledge source.  The goal is to build a question-answering system that answers queries strictly based on the uploaded documents instead of relying on general internet knowledge.
-Perfect. This is what you put in your **GitHub project description** — simple English, clean, no overcomplication.
 
 How It Works
 
@@ -57,6 +56,3 @@ How did Harry get his scar?
 
 The system retrieves relevant passages and generates an answer strictly from the provided book content.
 
----
-
-If you want, I can also give you a more “AI engineer style” version that sounds stronger for recruiters.
